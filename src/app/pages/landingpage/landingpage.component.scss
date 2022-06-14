@@ -1,0 +1,22 @@
+.gradient {
+  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+
+* {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.inline-display {
+  display: inline-flex;
+}
+
+.white-text {
+  color: white;
+}
+
+.why-images {
+  max-height: 280px;
+}
+button:focus {
+  outline: unset;
+}
